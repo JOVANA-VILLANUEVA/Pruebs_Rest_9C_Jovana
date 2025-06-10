@@ -1,0 +1,17 @@
+{
+  "name": "api-rest-jovana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "BLANCA JOVANA VILLANUEVA LUEVANO",
+  "license": "ISC",
+  "description": "PRACTICA DE API REST ",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
