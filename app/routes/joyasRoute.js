@@ -3,7 +3,7 @@ const router = express.Router()
 
 router.get('/anillo',(req,res)=>{
     res.json({
-        mensaje: "hola mundo"
+        mensaje: "hola mundo :)"
     })
 })
 
